@@ -1,45 +1,66 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: Always Here For You
+title   : The MCR Committee.
+subtitle: The committee is always hard at work making your life easier, more fun, and more social.
 
 member  :
-  - image         : images/team/member-1.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
+  - image         : images/team/NH.jpg
+    name          : Nico Han
+    designation   : President
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Nico studies MPhil in International Relations. She spends her time attempting to theorise big and small things of social realities. Nico was born in China and later immigrated to Canada. In addition to being active in MCR, Nico is a founder of the Oxford Diplomatic Society. She loves nice chats over long breakfast, and long walks after lunch.
+      
+      As President, Nico represents New College MCR members in relation to the College and Uni. Everyone is encouraged to reach out to Nico regarding anything about College life.
 
-  - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+  - image         : images/team/UA.jpg
+    name          : Ufuk Altunbüken
+    designation   : Vice-President
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Ufuk is reading for an MPhil in Economics and spends his days scribbling cryptic equations on his oversized whiteboard. In his free time, he can be found playing basketball, reading and writing in the New College cloisters, or having joyful banter with our porter Stewart.
+      
+      As Vice-President, Ufuk advises the president, runs committee elections, and is responsible for the academic community within the MCR. He also organizes Freshers' Fortnight and examines the accounts of our treasurer in excruciating detail.
 
-  - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+  - image         : images/team/SR.jpg
+    name          : Steffen Ridderbusch
+    designation   : Secretary
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Steffen is reading for a DPhil in Autonomous Intelligent Machines and Systems, a topic that is too trendy for how much mathematics it involves. Apart from labouring over equations and code, he sweats through various workouts and might row again next year. Having recently discovered mindfulness, you might spot him sitting very still on a bench outside.
 
-  - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+  - image         : images/team/JL.jpg
+    name          : Jordan Lian
+    designation   : Treasurer
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Jordan is an MPhil student in the Medieval and Modern Languages department studying Russian. More specifically, her research focuses on ballet and dance in the Russian Empire and Soviet Union. In her free time, Jordan enjoys music, art, watching films, running and working out, and enjoying good food.
+
+  - image         : images/team/MM.jpg
+    name          : Makiko Miyazaki
+    designation   : Social Secretary
+    description   : >
+      Makiko is doing an MPhil in International Relations. Born in Japan, she has spent most of her life abroad in the States, Switzerland, and the UK, and she considers Oxford one of her favourite places in the world. When she is not discussing IR theories and historical evidence, she sings in the Oxford Belles, Oxford’s oldest all-female a cappella group. She loves Broadway musicals, Disney films, and British comedies (especially Blackadder!) and is always excited to meet new people.
+      
+      As Social Secretary, Makiko organises events for the MCR community, a task she finds particularly meaningful as the pandemic has shown us the value of staying connected. If you have any events you’d like to see or would just like a chat, please do get in touch! 
+
+  - image         : images/team/VB.jpg
+    name          : Veerle Brans
+    designation   : Welfare Officer
+    description   : >
+      Veerle is a fourth-year DPhil student in Biomedical Engineering, where she looks into the application of microbubbles and ultrasound in immunotherapy. Next to her degree, she can be found doing all kinds of sports, including running, hockey, tennis and rowing.
+      
+      As Welfare Officer, she cares about your experiences at Oxford and facilitates the practice of holistic health among MCR members, for example by organising welfare teas, art nights, mindfulness and meditation workshops, and yoga. Along the MCR team of trained peer supporters, she is available to chat confidentially and on a one-to-one basis about anything that might concern you. Please do not hesitate to get in touch!
+
+  - image         : images/team/SD.jpg
+    name          : Siddhartha Datta
+    designation   : House Officer
+    description   : >
+      Siddhartha is pursuing a DPhil in Computer Science, robustifying neural network architecture against hurting others (and sometimes itself). When not working in the Wolfson Building, you will find him working in the MCR Spoom, working in the TV room, working … the pandemic closed all the fun stuff in Oxford, you get the picture. In another time and land, Sidd takes aerial photographs of cities and scenery with drones, proving once more that it is talent, not technology, that makes good art.
+      
+      Being House Officer means he is committed to pampering, nurturing, and investing in the Pavilion. His time goes to retaining a warm and positive atmosphere. This means keeping all the facilities clean and upgraded, providing new and exciting provisions for consumption or social use, and managing our MCR’s physical assets in this precious real estate.
+
+
+  - image         : images/team/AB.jpg
+    name          : Amalie Bronér
+    designation   : Bar Officer
+    description   : >
+      Amalie is reading for an MPhil in European Politics and Society, which makes her a very dedicated committee member when she's got an essay she's trying to avoid. Her procrastination has driven her to be Bar Rep, keeping the MCR bar well-stocked and running smoothly for any other MCR members who need to procrastinate.
+      
+      When not serving drinks and restocking the bar, she is a keen rower and will try to recruit you to the boat club. She is lactose-intolerant and doesn't like cheese, which makes her Lorenzo's arch-nemesis. She's always on the lookout for new recommendations for drinks to add to the bar's stock for any student who needs to drown their sorrows.
